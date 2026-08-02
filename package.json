@@ -1,0 +1,10 @@
+{
+  "name": "smart-hospital-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "db:pull": "npx prisma db pull --config backend/prisma.config.ts",
+    "db:push": "npx prisma db push --config backend/prisma.config.ts",
+    "db:generate": "npx prisma generate --config backend/prisma.config.ts"
+  }
+}
