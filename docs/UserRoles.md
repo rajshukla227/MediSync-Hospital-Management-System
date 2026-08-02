@@ -1,0 +1,19 @@
+# User Roles
+
+## Super Admin
+...
+
+## Hospital Admin
+...
+
+## Doctor
+...
+
+## Nurse
+...
+
+## Receptionist
+...
+
+## Patient
+...
